@@ -12,7 +12,7 @@ const tarjeta = document.querySelector('#tarjeta'),
 // * Volteamos la tarjeta para mostrar el frente.
 const mostrarFrente = () => {
 	if(tarjeta.classList.contains('active')){
-		tarjeta.classList.remove('active');
+		// tarjeta.classList.remove('active');
 	}
 }
 
