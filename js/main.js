@@ -20,7 +20,7 @@ const mostrarFrente = () => {
 //tarjeta.addEventListener('click', () => {
 	//tarjeta.classList.toggle('active');
 //});
-
+// 
 // * Boton de abrir formulario
 btnAbrirFormulario.addEventListener('click', () => {
 	btnAbrirFormulario.classList.toggle('active');
